@@ -1,0 +1,28 @@
+{
+    "summons": [
+        {
+            "id": "ghost",
+            "name": "Fantasmal",
+            "img": "assets/images/summons/ghost.webp",
+            "cooldown": "180"
+        },
+        {
+            "id": "heal",
+            "name": "Curación",
+            "img": "assets/images/summons/heal.webp",
+            "cooldown": "180"
+        }
+    ],
+    "cdr": [
+        {
+            "id": "cosmic-insight",
+            "name": "Perspicacia Cósmica",
+            "img": "assets/images/cdr/cosmic-insight.webp"
+        },
+        {
+            "id": "ionian-boots",
+            "name": "Botas de Jonia",
+            "img": "assets/images/cdr/ionian-boots.webp"
+        }
+    ]
+}

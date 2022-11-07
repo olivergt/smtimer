@@ -1,0 +1,27 @@
+._wrap {
+    width: 80px;
+    height: 80px;
+    overflow: hidden;
+    position: relative;
+}
+
+.img__summon {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+}
+
+.img__summon__active {
+    position: absolute;
+    opacity: .4;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+}
+
+._timer {
+    position: relative;
+}
